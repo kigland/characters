@@ -1,1 +1,4 @@
-# ✨ Characters
+# ✨ CHARACTERS
+
+## LIST
+- [Oyama Mahiro](./Oyama_Mahiro)
