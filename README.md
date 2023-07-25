@@ -2,7 +2,7 @@
 
 Everything is open source, free to use
 
-## LIST
+## CHARACTERS
 |Characters|Eyes|
 |---|---|
 |[Oyama Mahiro](./Oyama_Mahiro)|<img src="./Oyama_Mahiro/eyes.svg" width="100px" height="100px" />|
